@@ -1,4 +1,4 @@
-doauto
+# doauto
 
 This repo contains a simple utility to create a DigitalOcean droplet using github.com/digitalocean/godo wrapper.
 
